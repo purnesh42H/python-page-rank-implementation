@@ -1,0 +1,12 @@
+G1:
+Proportion of pages with no out links: 0.013013
+Proportion of pages with no in links: 0.029029
+G2:
+Proportion of pages with no out links: 0.360017
+Proportion of pages with no in links: 0.078069
+G2:
+Proportion of pages with no out links: 0.360017
+Proportion of pages with no in links: 0.078069
+G2:
+Proportion of pages with no out links: 0.360017
+Proportion of pages with no in links: 0.078069

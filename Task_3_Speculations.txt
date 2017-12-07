@@ -1,0 +1,12 @@
+Top 5 pages obtained using page rank algorithm are different than pages that are having top 5
+in links counts. It is due to the following reason:
+1. The top 5 pages by page rank has one or more inLink from top 5 pages by in link counts.
+   Hence, these pages have obtained higher rankings.
+2. Moreover, in the algorithm the page ranks of the in links are at the divisor position
+   which could be responsible for the low ranking numbers and thus rank number will reduce in 
+   successive iterations. 
+3. Since point 2 gives a mathematicall proof of low ranking numbers of pages having high
+   in links count, point 1 tends to be correct.
+4. Now, since pages with less in links have higher rank(if falls in category mentioned by 1)
+   have high rank numbers and they being part of in links for other pages will reduce their
+   rankings due to ranks of pages of point 1 category lying at denominator for other pages.
